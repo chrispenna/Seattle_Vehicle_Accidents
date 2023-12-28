@@ -1,5 +1,5 @@
 # Analyzing Seattle Road Accident Data
-
+![Seattle Skyline](seattle-skyline-from-queen-anne-hill-washington_800.jpg)
 In the realm of common fears, individuals grapple with anxieties about phobias like flying, spiders, or predators. However, the statistical concern demanding attention lies in vehicle accidents, which are more detrimental to society. In Seattle, this reality takes form, with 2,500 severe injuries and fatalities recorded annually due to traffic incidents. This underscores the critical need to prioritize safety while navigating the city's intricate roadways.
 
 Motivated by a commitment to local well-being, I conduct a thorough analysis of Seattle's accident data. As a resident, my goal is to contribute to initiatives that raise awareness among residents by identifying key circumstances. This involves a focus on accident occurrences and the rates of fatalities and serious injuries. Each data point enhances the narrative of road safety in our vibrant community, aligning with collective efforts to understand accident-prone conditions and utilizing data to inform and heighten awareness.
