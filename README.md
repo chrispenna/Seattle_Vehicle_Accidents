@@ -7,7 +7,7 @@ Motivated by a commitment to local well-being, I conduct a thorough analysis of 
 
 ## The Data
 
-The dataset provides comprehensive data on vehicle accidents in Seattle from 2003 to 2023, incorporating over 240,000 records.
+The dataset provides comprehensive data on [vehicle accidents in Seattle from 2003 to 2023](https://data-seattlecitygis.opendata.arcgis.com/datasets/34dd0a126aeb4dd5b99a397b5884e71f/explore?location=47.386739%2C-121.096708%2C7.96&showTable=true), incorporating over 240,000 records.
 
 ## Data Analysis
 
