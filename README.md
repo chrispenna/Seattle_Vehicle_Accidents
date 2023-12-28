@@ -11,8 +11,7 @@ The dataset provides comprehensive data on [vehicle accidents in Seattle from 20
 
 ## Data Analysis
 
-The data was analyzed using SQL. It includes detailed information on weather, road conditions, fatalities, injuries, and related factors, with temporal insights spanning yearly, monthly, and hourly intervals.
-
+The data was analyzed using [SQL](https://github.com/chrispenna/Seattle_Vehicle_Accidents/blob/main/Seattle_Vehicle_Accidents.sql). It includes detailed information on weather, road conditions, fatalities, injuries, and related factors, with temporal insights spanning yearly, monthly, and hourly intervals.
 ## Key Takeaways
 
 Key takeaways emphasize that accidents are influenced by a variety of contributing factors, including:
